@@ -1,0 +1,11 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/uNO35A-Q)
+﻿# Induction-Y25
+
+Make a fork of this repo and create a branch in the fork with the following name: `[firstname]_[lastname_initial]`
+Example: `vivek_m` , `soumya_j`
+
+## Tasks
+
+| Task | Description | Deadline |
+| :--- | :--- | :--- |
+| [Task 5: Virtual Drone Fleet Manager](tasks/task5_drone_fleet.md) | OOPs + ROS 2 + Docker drone fleet simulation | 5th June EOD |
